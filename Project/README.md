@@ -34,7 +34,7 @@ The ErrorHandling contract demonstrates the following error handling mechanisms:
 * revert statement: Used to revert the current transaction and throw an exception with a specific error message.
 
 ## License
-The ErrorHandling smart contract is licensed under the MIT License. You can find the license text in the LICENSE file.
+The ErrorHandling smart contract is licensed under the MIT License.
 
 ## Contributing
 If you'd like to contribute to the ErrorHandling contract or have suggestions for improvement, feel free to open an issue or submit a pull request.
